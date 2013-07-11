@@ -1,0 +1,19 @@
+This is a sample.txt which contains a human entered string containing AAPL, NFLX and several other financial market details.
+
+conpro Consulting AG CH0038599186 CH	Equity, ISIN CH0038599186, WKN A0NGKU, 5CC
+Quanto-Discount-Zertifikat auf Roche Genussscheine DE000AA2ECD5	DE	Investment Product, ISIN DE000AA2ECD5, WKN AA2ECD	Investment
+Quanto-Discount-Zertifikat auf Roche Genussscheine	DE000AA2ECE3	DE	Investment Product, ISIN DE000AA2ECE3, WKN AA2ECE	Investment
+Quanto Capped Bonus Zertifikat auf Roche Genusssch	DE000AA2ECM6	DE	Investment Product, ISIN DE000AA2ECM6, WKN AA2ECM	Investment
+Quanto Capped Bonus Zertifikat auf Roche Genusssch	DE000AA2ECN4	DE	Investment Product, ISIN DE000AA2ECN4, WKN AA2ECN	Investment
+
+Exxon Mobil of ISIN US30231G1022, the NSIN is 30231G102 and is a cusip
+
+PS:
+United States and Canada, where the NSIN is known as the CUSIP (and where some international securities can be traded with adhoc CUSIPs called CINSs)
+United Kingdom and Ireland, where the NSIN is known as the SEDOL
+Switzerland, where the NSIN is known as the Valor number
+
+BAE Systems: SEDOL is 0263494
+
+
+also, a banjo
